@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/gamjatalk/static/css/main.5326f00a.chunk.css",
-    "main.js": "/gamjatalk/static/js/main.8e296c2b.chunk.js",
-    "main.js.map": "/gamjatalk/static/js/main.8e296c2b.chunk.js.map",
+    "main.css": "/gamjatalk/static/css/main.e6562cd1.chunk.css",
+    "main.js": "/gamjatalk/static/js/main.0326631c.chunk.js",
+    "main.js.map": "/gamjatalk/static/js/main.0326631c.chunk.js.map",
     "runtime-main.js": "/gamjatalk/static/js/runtime-main.b9b43ea7.js",
     "runtime-main.js.map": "/gamjatalk/static/js/runtime-main.b9b43ea7.js.map",
     "static/js/2.5de1dd40.chunk.js": "/gamjatalk/static/js/2.5de1dd40.chunk.js",
     "static/js/2.5de1dd40.chunk.js.map": "/gamjatalk/static/js/2.5de1dd40.chunk.js.map",
     "index.html": "/gamjatalk/index.html",
-    "static/css/main.5326f00a.chunk.css.map": "/gamjatalk/static/css/main.5326f00a.chunk.css.map",
+    "static/css/main.e6562cd1.chunk.css.map": "/gamjatalk/static/css/main.e6562cd1.chunk.css.map",
     "static/js/2.5de1dd40.chunk.js.LICENSE.txt": "/gamjatalk/static/js/2.5de1dd40.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b9b43ea7.js",
     "static/js/2.5de1dd40.chunk.js",
-    "static/css/main.5326f00a.chunk.css",
-    "static/js/main.8e296c2b.chunk.js"
+    "static/css/main.e6562cd1.chunk.css",
+    "static/js/main.0326631c.chunk.js"
   ]
 }
